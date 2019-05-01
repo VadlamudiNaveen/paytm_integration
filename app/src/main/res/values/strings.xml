@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">integration</string>
+    <string-array name="planets_array">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>Civil</item>
+        <item>Mech</item>
+    </string-array>
+</resources>
